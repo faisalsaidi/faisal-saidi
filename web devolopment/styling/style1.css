@@ -1,0 +1,19 @@
+.ooo div {
+
+background-color: blue;
+border: solid blueviolet;
+width: 100px;
+height: 100px;
+text-align: center;
+}
+
+.ooo { 
+background-color: aqua;
+    display: flex;
+    flex-wrap: wrap-reverse;
+    justify-content:space-between;
+    
+
+}
+
+
